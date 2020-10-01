@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Borang Pemohonan</title>
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles2.css">
 </head>
 
 <body>
@@ -34,80 +34,121 @@
             <td style="text-align: right">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align: right"><table class="tbl-border" width="100%" border="0" cellspacing="0" cellpadding="5">
+            <td><table class="tbl-border" width="100%" border="0" cellspacing="0" cellpadding="5">
               <tbody>
                 <tr>
-                  <td class="bg">(A) MAKLUMAT PEMOHON</td>
+                  <td class="bg" align="left"   style="border: 1px solid black">(A) MAKLUMAT PEMOHON</td>
                 </tr>
                 <tr>
-                  <td><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <td   style="border: 1px solid black"><table width="96%" border="0" align="center" cellpadding="3" cellspacing="0">
                     <tbody>
-                      <tr>
-                        <td colspan="3">1. Nama
-                          <div class="box"> test </div></td>
-                        </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        </tr>
-                      <tr>
-                        <td>2. No. Kad Pengenalan
-                          <div class="box"> test </div></td>
-                        <td>&nbsp;</td>
-                        <td>3. No. Telefon Bimbit
-                          <div class="box"> test </div></td>
-                        </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        </tr>
                       <tr>
                         <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                           <tbody>
                             <tr>
-                              <td>4. Status Perkahwinan<br>
-                                <table width="100%" border="0" cellspacing="0" cellpadding="3">
+                              <td>1. Nama</td>
+                            </tr>
+                            <tr>
+                              <td class="tdborder">&nbsp;</td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                        </tr>
+                      <tr>
+                        <td width="45%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            <tr>
+                              <td>2. No. Kad Pengenalan</td>
+                              </tr>
+                            <tr>
+                              <td class="tdborder">&nbsp;</td>
+                              </tr>
+                            </tbody>
+                          </table></td>
+                        <td width="4%">&nbsp;</td>
+                        <td width="51%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            <tr>
+                              <td>3. No. Telefon Bimbit</td>
+                              </tr>
+                            <tr>
+                              <td class="tdborder">&nbsp;</td>
+                              </tr>
+                            </tbody>
+                          </table></td>
+                      </tr>
+                      <tr>
+                        <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            <tr>
+                              <td>4. Status Perkahwinan
+                                <table width="100%" border="0" cellspacing="0" cellpadding="5">
                                   <tbody>
                                     <tr>
-                                      <td><div class="box box2"></div></td>
-                                      <td>Bujang</td>
-                                      </tr>
+                                      <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tdborder2">&nbsp;</td>
+                                            <td>Bujang</td>
+                                          </tr>
+                                        </tbody>
+                                      </table></td>
+                                    </tr>
                                     <tr>
-                                      <td><div class="box box2"></div></td>
-                                      <td>Berkahwin</td>
-                                      </tr>
+                                      <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tdborder2">&nbsp;</td>
+                                            <td>Berkahwin</td>
+                                          </tr>
+                                        </tbody>
+                                      </table></td>
+                                    </tr>
                                     <tr>
-                                      <td><div class="box box2"></div></td>
-                                      <td>Duda / Janda</td>
-                                      </tr>
-                                    </tbody>
-                                  </table>
-                                
-                                </td>
+                                      <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tdborder2">&nbsp;</td>
+                                            <td>Duda / Janda</td>
+                                          </tr>
+                                        </tbody>
+                                      </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <br></td>
                               <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                                 <tbody>
                                   <tr>
-                                    <td colspan="3">5. Jawatan
-                                      <div class="box"> test </div></td>
+                                    <td colspan="4"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody>
+                                        <tr>
+                                          <td>5. Jawatan</td>
+                                        </tr>
+                                        <tr>
+                                          <td class="tdborder">&nbsp;</td>
+                                        </tr>
+                                      </tbody>
+                                    </table></td>
                                     </tr>
                                   <tr>
-                                    <td colspan="3">&nbsp;</td>
+                                    <td colspan="4">&nbsp;</td>
                                     </tr>
                                   <tr>
                                     <td>
                                       6. Gred Jawatan
                                       <br></td>
+                                    <td>&nbsp;</td>
                                     <td>7. Taraf Jawatan<br></td>
                                     <td>&nbsp;</td>
                                     </tr>
                                   <tr>
-                                    <td><div class="box" style="width: 100px;"> test </div></td>
+                                    <td class="tdborder">&nbsp;</td>
+                                    <td>&nbsp;</td>
                                     <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
                                       <tbody>
                                         <tr>
-                                          <td><div class="box box2"></div></td>
+                                          <td class="tdborder2">&nbsp;</td>
                                           <td>Tetap</td>
                                           </tr>
                                         </tbody>
@@ -115,7 +156,7 @@
                                     <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
                                       <tbody>
                                         <tr>
-                                          <td><div class="box box2"></div></td>
+                                          <td class="tdborder2">&nbsp;</td>
                                           <td>Kontrak</td>
                                           </tr>
                                         </tbody>
@@ -126,45 +167,55 @@
                               </tr>
                             </tbody>
                           </table></td>
-                        </tr>
-                      <tr>
-                        <td colspan="3">&nbsp;</td>
-                        </tr>
-                      <tr>
-                        <td colspan="3">5. Maklumat Pekerjaan
-                          <div class="box" style="height: 40px"> test </div></td>
-                        </tr>
-                      <tr>
-                        <td colspan="3">&nbsp;</td>
-                        </tr>
-                      <tr>
-                        <td colspan="3">6. Nama Jab
-                          <div class="box"> test </div></td>
-                        </tr>
+                      </tr>
                       </tbody>
                     </table></td>
                 </tr>
                 <tr>
-                  <td class="bg">(B) MAKLUMAT PASANGAN</td>
+                  <td class="bg"  style="border: 1px solid black">(B) MAKLUMAT PASANGAN</td>
                 </tr>
                 <tr>
-                  <td><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <td style="border: 1px solid black"><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
                     <tbody>
                       <tr>
-                        <td colspan="3">1. Nama
-                          <div class="box"> test </div></td>
+                        <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            <tr>
+                              <td>1. Nama</td>
+                            </tr>
+                            <tr>
+                              <td class="tdborder">&nbsp;</td>
+                            </tr>
+                          </tbody>
+                        </table></td>
                       </tr>
                       <tr>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
+                        <td width="45%">&nbsp;</td>
+                        <td width="3%">&nbsp;</td>
+                        <td width="52%">&nbsp;</td>
                       </tr>
                       <tr>
-                        <td>2. No. Kad Pengenalan
-                          <div class="box"> test </div></td>
+                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            <tr>
+                              <td>2. No. Kad Pengenalan</td>
+                            </tr>
+                            <tr>
+                              <td class="tdborder">&nbsp;</td>
+                            </tr>
+                          </tbody>
+                        </table></td>
                         <td>&nbsp;</td>
-                        <td>3. No. Telefon Bimbit
-                          <div class="box"> test </div></td>
+                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            <tr>
+                              <td>3. No. Telefon Bimbit</td>
+                            </tr>
+                            <tr>
+                              <td class="tdborder">&nbsp;</td>
+                            </tr>
+                          </tbody>
+                        </table></td>
                       </tr>
                       <tr>
                         <td>&nbsp;</td>
@@ -180,7 +231,7 @@
       <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
         <tbody>
           <tr>
-            <td><div class="box box2"></div></td>
+            <td class="tdborder">&nbsp;</td>
             <td>Bekerja</td>
           </tr>
         </tbody>
@@ -188,15 +239,15 @@
       <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
         <tbody>
           <tr>
-            <td><div class="box box2"></div></td>
-            <td>Bekerja  Sendiri / Perniagaan</td>
+            <td class="tdborder">&nbsp;</td>
+            <td>Bekerja Sendiri / Perniagaan</td>
           </tr>
         </tbody>
       </table></td>
       <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
         <tbody>
           <tr>
-            <td><div class="box box2"></div></td>
+            <td class="tdborder">&nbsp;</td>
             <td>Suri Rumah Sepenuh Masa</td>
           </tr>
         </tbody>
@@ -220,8 +271,8 @@
                         <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                           <tbody>
                             <tr>
-                              <td width="44%" align="right">Jenis Pekerjaan / Perniagaan : &nbsp;&nbsp;</td>
-                              <td width="56%"><div class="box"></div></td>
+                              <td width="" align="right">Jenis Pekerjaan / Perniagaan : &nbsp;&nbsp;</td>
+                              <td width="50%" class="tdborder">&nbsp;</td>
                             </tr>
                           </tbody>
                         </table></td>
@@ -233,8 +284,12 @@
                         <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                           <tbody>
                             <tr>
-                              <td width="44%" align="right" valign="top">Alamat Tempat Kerja : &nbsp;&nbsp;</td>
-                              <td width="56%"><div class="box" style="height: 30px"></div></td>
+                              <td width="" align="right" valign="top">Alamat Tempat Kerja : &nbsp;&nbsp;</td>
+                              <td width="50%" class="tdborder"><br>
+                                <br>
+                                <br>
+<br>
+                                <br></td>
                             </tr>
                           </tbody>
                         </table></td>
@@ -242,40 +297,40 @@
                     </tbody>
                   </table></td>
                 </tr>
-                <tr>
+                <tr class="trborder">
                   <td class="bg">(C) MAKLUMAT KELUARGA YANG AKAN TINGGAL BERSAMA</td>
                 </tr>
-                <tr>
-                  <td><table class="tbl-border" width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr  class="trborder">
+                  <td  style="border: 1px solid black"><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
                     <tbody>
                       <tr>
-                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <td><table width="100%" border="0" cellspacing="0" cellpadding="5">
                           <tbody>
-                            <tr>
+                            <tr class="trborder">
                               <th scope="col">Bil.</th>
                               <th scope="col">Nama</th>
                               <th scope="col">No. Kad Pengenalan</th>
                               <th scope="col">Hubungan Dengan Pemohon</th>
                               </tr>
-                            <tr>
+                            <tr class="trborder">
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               </tr>
-                            <tr>
+                            <tr class="trborder">
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               </tr>
-                            <tr>
+                            <tr class="trborder">
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               </tr>
-                            <tr>
+                            <tr class="trborder">
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>
                               <td>&nbsp;</td>

@@ -14,12 +14,29 @@
 .tbl-border{
 	border-collapse: collapse;
 }
-.tbl-border > tbody > tr > td, .tbl-border tr th{
-	border: 1px solid black;
-}
+
 .tbl-border th{
 	padding: 10px 0px;
 }
 .bg{
 	background: #989696;
+}
+.tdborder{
+	border: 1px solid black;
+	height: 25px;
+}
+.tdborder2{
+	border: 1px solid black;
+	width: 40px;
+}
+
+.tdborder3{
+	border: 1px solid black;
+}
+.trborder td, .trborder th{
+	border: 1px solid black;
+	
+}
+table{
+	border-collapse: collapse;
 }

@@ -25,3 +25,14 @@ Route::get('/pdf/{any}', function () {
 	return $pdf->stream($segment . '.pdf');
 
 });
+
+Route::get('/pdf2/{any}', function () {
+
+    $segment = Request::segment(2);
+
+    //return view($segment);
+
+    $pdf = PDF::loadView($segment);
+	return $pdf->stream($segment . '.pdf');
+
+});
