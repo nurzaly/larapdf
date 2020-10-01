@@ -21,7 +21,7 @@ Route::get('/pdf/{any}', function () {
 
     //return view($segment);
 
-    $pdf = PDFDOM::loadView($segment);
+    $pdf = PDF::loadView($segment);
 	return $pdf->stream($segment . '.pdf');
 
 });
@@ -32,7 +32,7 @@ Route::get('/pdf2/{any}', function () {
 
     //return view($segment);
 
-    $pdf = PDF::loadView($segment);
+    $pdf = PDFDOM::loadView($segment);
 	return $pdf->stream($segment . '.pdf');
 
 });

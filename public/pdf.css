@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+table, td{
+	border-collapse: collapse;
+}
+
+.tbl-border{
+	border-collapse: collapse;
+}
+
+
+.bg{
+	background: #989696;
+}
+.tdborder{
+	border: 1px solid black;
+	height: 25px;
+}
+.checkbox{
+	border: 1px solid black;
+	width: 40px;
+}
+
+.table{
+	border-collapse: collapse;
+}
+.table tr td, .table tr th{
+	border: 1px solid black;
+}
+
+.underline{
+	border-bottom: 1px solid black;
+}
