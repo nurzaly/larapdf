@@ -16,9 +16,12 @@ Route::get('/', function () {
 });
 
 Route::get('/pdf/{any}', function () {
+
     $segment = Request::segment(2);
 
+    //return view($segment);
 
+    $pdf = PDFDOM::loadView($segment);
+	return $pdf->stream($segment . '.pdf');
 
-    return view($segment);
 });

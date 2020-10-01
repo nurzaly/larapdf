@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+.box{
+	border: 1px solid black;
+	height: 15px;
+	padding: 5px;
+}
+
+.box2{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+}
+.tbl-border{
+	border-collapse: collapse;
+}
+.tbl-border td, .tbl-border th{
+	border: 1px solid black;
+}
+.tbl-border th{
+	padding: 10px 0px;
+}
