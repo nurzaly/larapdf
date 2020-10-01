@@ -19,7 +19,7 @@
             <td style="text-align: center"><table width="100%" border="0" cellspacing="0" cellpadding="5">
               <tbody>
                 <tr>
-                  <td align="center" class="bg">BORANG PERMOHONAN MENDUDUKI KUARTERS</td>
+                  <td align="center" class="bg" style="border: 1px solid black">BORANG PERMOHONAN MENDUDUKI KUARTERS</td>
                 </tr>
               </tbody>
             </table></td>
@@ -37,10 +37,10 @@
             <td><table class="tbl-border" width="100%" border="0" cellspacing="0" cellpadding="5">
               <tbody>
                 <tr>
-                  <td class="bg" align="left"   style="border: 1px solid black">(A) MAKLUMAT PEMOHON</td>
+                  <td class="bg" align="left" style="border: 1px solid black">(A) MAKLUMAT PEMOHON</td>
                 </tr>
                 <tr>
-                  <td   style="border: 1px solid black"><table width="96%" border="0" align="center" cellpadding="3" cellspacing="0">
+                  <td style="border: 1px solid black"><table width="96%" border="0" align="center" cellpadding="3" cellspacing="0">
                     <tbody>
                       <tr>
                         <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -172,7 +172,7 @@
                     </table></td>
                 </tr>
                 <tr>
-                  <td class="bg"  style="border: 1px solid black">(B) MAKLUMAT PASANGAN</td>
+                  <td class="bg" style="border: 1px solid black">(B) MAKLUMAT PASANGAN</td>
                 </tr>
                 <tr>
                   <td style="border: 1px solid black"><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -231,7 +231,7 @@
       <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
         <tbody>
           <tr>
-            <td class="tdborder">&nbsp;</td>
+            <td class="tdborder2">&nbsp;</td>
             <td>Bekerja</td>
           </tr>
         </tbody>
@@ -239,7 +239,7 @@
       <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
         <tbody>
           <tr>
-            <td class="tdborder">&nbsp;</td>
+            <td class="tdborder2">&nbsp;</td>
             <td>Bekerja Sendiri / Perniagaan</td>
           </tr>
         </tbody>
@@ -247,7 +247,7 @@
       <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
         <tbody>
           <tr>
-            <td class="tdborder">&nbsp;</td>
+            <td class="tdborder2">&nbsp;</td>
             <td>Suri Rumah Sepenuh Masa</td>
           </tr>
         </tbody>
@@ -306,7 +306,7 @@
                       <tr>
                         <td><table width="100%" border="0" cellspacing="0" cellpadding="5">
                           <tbody>
-                            <tr class="trborder">
+                            <tr class="trborder bg">
                               <th scope="col">Bil.</th>
                               <th scope="col">Nama</th>
                               <th scope="col">No. Kad Pengenalan</th>
