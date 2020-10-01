@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/pdf/{any}', function () {
+    $segment = Request::segment(2);
+
+
+
+    return view($segment);
+});
