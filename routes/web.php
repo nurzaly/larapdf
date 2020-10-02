@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/pdf/{any}', function () {
+Route::get('/print/{any}', function () {
 
     $segment = Request::segment(2);
 
@@ -26,7 +26,7 @@ Route::get('/pdf/{any}', function () {
 
 });
 
-Route::get('/pdf2/{any}', function () {
+Route::get('/print2/{any}', function () {
 
     $segment = Request::segment(2);
 
