@@ -136,6 +136,9 @@
                     </tbody>
                   </table></td>
                 </tr>
+                <tr>
+                  <td class="bg tdborder">(B) JENIS RAYUAN</td>
+                </tr>
               </tbody>
             </table></td>
           </tr>
