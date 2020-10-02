@@ -28,14 +28,14 @@
             <td style="text-align: left;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align: left;"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+            <td style="text-align: left;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody>
                 <tr>
-                  <td width="33%">Nama Pemohon &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</td>
-                  <td width="67%"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <td width="24%">Nama Pemohon :</td>
+                  <td width="76%"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
                     <tbody>
                       <tr style="text-align: left">
-                        <td height="30" class="checkbox">&nbsp;</td>
+                        <td width="100%" height="30" class="checkbox" table>&nbsp;</td>
                       </tr>
                     </tbody>
                   </table></td>
@@ -50,8 +50,8 @@
             <td style="text-align: left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody>
                 <tr>
-                  <td width="33%">No. Rujukan Surat Keputusan :</td>
-                  <td><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <td width="36%">No. Rujukan Surat Keputusan :</td>
+                  <td width="64%"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
                     <tbody>
                       <tr style="text-align: left">
                         <td width="100%" height="30" class="checkbox" table>&nbsp;</td>
