@@ -60,13 +60,13 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="5">
               <tbody>
                 <tr>
-                  <td>(A) MAKLUMAT PEMOHON</td>
+                  <td class="bg tdborder">(A) MAKLUMAT PEMOHON</td>
                 </tr>
                 <tr>
-                  <td><table width="100%" border="0" cellspacing="0" cellpadding="5">
+                  <td class="tdborder"><table width="100%" border="0" cellspacing="0" cellpadding="5">
                     <tbody>
                       <tr>
                         <td colspan="3">&nbsp;</td>
@@ -125,7 +125,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="checkbox">&nbsp;</td>
-                                    <td>Penama Kuarters</td>
+                                    <td>&nbsp;&nbsp;Penama Kuarters</td>
                                     </tr>
                                   </tbody>
                                 </table></td>
