@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center">
+<table width="100%" border="0"  align="center" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td><table width="100%" border="0" align="center"  cellpadding="0" cellspacing="0">
@@ -44,8 +44,8 @@
             <td style="text-align: left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody>
                 <tr>
-                  <td width="32%">No. Rujukan Surat Keputusan :</td>
-                  <td width="68%" class="underline tdborder">&nbsp;</td>
+                  <td width="33%">No. Rujukan Surat Keputusan :</td>
+                  <td width="67%" class="underline tdborder">&nbsp;</td>
                 </tr>
               </tbody>
             </table></td>
@@ -64,10 +64,10 @@
             </table></td>
           </tr>
           <tr>
-            <td style="text-align: right">&nbsp;</td>
+            <td style="text-align: right" >&nbsp;</td>
           </tr>
           <tr>
-            <td>Saya dengan ini mengesahkan bahawa saya;</td>
+            <td text-decoration="underline">Saya dengan ini mengesahkan bahawa saya;</td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -78,7 +78,13 @@
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tr>
-                <td width="20%">&nbsp;</td>
+                <td width="20%"><table width="41%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td class="checkbox">&nbsp;</td>
+                    </tr>
+                  </tbody>
+                </table></td>
                 <td width="80%"><strong>BERSETUJU</strong> <span>dan terima tawaran untuk menduduki kuarters bernombor</span></td>
               </tr>
               <tr>
@@ -98,7 +104,13 @@
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tr>
-                <td width="20%">&nbsp;</td>
+                <td width="20%"><table width="41%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td class="checkbox">&nbsp;</td>
+                    </tr>
+                  </tbody>
+                </table></td>
                 <td width="80%"><strong>TIADA LAGI KEPERLUAN</strong> untuk menduduki kuarters pada masa ini dan</td>
               </tr>
               <tr>
@@ -120,13 +132,13 @@
                   <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                     <tbody>
                       <tr>
-                        <td>&nbsp;</td>
+                        <td >&nbsp;</td>
                       </tr>
                       <tr>
                         <td>&nbsp;</td>
                       </tr>
                       <tr>
-                         <td style="font-weight: normal; text-decoration: underline; text-align: left;"><p>Diisi sekiranya bersetuju untuk menduduki kuarters:</p></td>
+                         <td style="font-weight: normal; text-decoration: underline; text-align: left;"><p><em>Diisi sekiranya bersetuju untuk menduduki kuarters:</em></p></td>
                       </tr>
                       <tr>
                         <td>&nbsp;</td>
