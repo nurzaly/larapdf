@@ -13,7 +13,7 @@
       <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody>
           <tr>
-            <td style="text-align: right">BRG/KRTRS - MOHON (RAYUAN)</td>
+            <td style="text-align: right; font-size: 12px;">BRG/KRTRS - MOHON (RAYUAN)</td>
           </tr>
           <tr>
             <td style="text-align: center">&nbsp;</td>

@@ -13,7 +13,7 @@
       <td><table width="100%" border="0" align="center"  cellpadding="0" cellspacing="0">
         <tbody>
           <tr>
-            <td style="text-align: right">BRG/KRTRS - KEADAAN ASET SEMASA</td>
+            <td style="text-align: right; font-size: 12px;">BRG/KRTRS - KEADAAN ASET SEMASA</td>
           </tr>
           <tr>
             <td style="text-align: left"><u><strong>BORANG KEADAAN ASET SEMASA</strong></u></td>
@@ -87,7 +87,7 @@
               </table></td>
           </tr>
           <tr>
-            <td style="text-align: left"><em>** Sila tambah sekiranya perlu<br>
+            <td style="text-align: left; font-size: 12px;"><em>** Sila tambah sekiranya perlu<br>
               ** Sila lampirkan gambar sekiranya perlu</em></td>
           </tr>
           <tr>
@@ -112,7 +112,7 @@
             <td><table width="100%" border="0" cellspacing="0" cellpadding="4">
               <tbody>
                 <tr>
-                  <td width="35%" rowspan="6" valign="top" class="tdborder" ><em>Tandatangan</em> :</td>
+                  <td width="35%" rowspan="6" valign="top" class="tdborder" ><em style="font-size: 12px">Tandatangan</em> :</td>
                   <td width="20%">&nbsp;</td>
                   <td width="45%">&nbsp;</td>
                 </tr>
@@ -158,7 +158,7 @@
             <td><table width="100%" border="0" cellspacing="0" cellpadding="4">
               <tbody>
                 <tr>
-                  <td width="38%" rowspan="6" valign="top" class="tdborder" ><em>Tandatangan</em> :</td>
+                  <td width="38%" rowspan="6" valign="top" class="tdborder" ><em style="font-size: 12px">Tandatangan</em> :</td>
                   <td width="20%">&nbsp;</td>
                   <td width="42%">&nbsp;</td>
                 </tr>

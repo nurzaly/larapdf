@@ -52,8 +52,8 @@
             <td style="text-align: left; font-weight: bold;text-decoration: underline"><p>ARAHAN PENDUDUKAN RUMAH KHAS</p></td>
           </tr>
           <tr>
-            <td height="12" style="text-align: justify"><p>&nbsp;</p>
-              <p><span style="text-align: left">Dengan hormatnya saya diarah merujuk kepada perkara di atas dan surat lantikan sebagai <span style="text-decoration: underline">(nama jawatan yang dilantik)</span> dengan no. rujukan <span style="text-decoration: underline">(no rujukan surat lantikan)</span> bertarikh <span style="text-decoration: underline">(tarikh surat lantikan)</span> adalah berkaitan.</span></p>
+            <td height="12" style="text-align: justify; line-height: 1."><p>&nbsp;</p>
+              <p><span style="text-align: left">Dengan hormatnya saya diarah merujuk kepada perkara di atas dan surat lantikan sebagai <span style="text-decoration: underline">(nama jawatan yang dilantik)</span> dengan no. rujukan <span style="text-decoration: underline">(no rujukan surat lantikan)</span> bertarikh <span style="text-decoration: underline">(tarikh surat lantikan)</span> adalah berkaitan.</span> </p>
               <p>&nbsp;</p>
               <p>2.&nbsp;&nbsp;&nbsp;&nbsp;Adalah dimaklumkan, jawatan <span style="text-decoration: underline">(nama jawatan yang dilantik)</span> yang dilantik adalah jawatan yang diperuntukkan Rumah Khas. Merujuk kepada <strong>Arahan Pentadbiran JTM Bilangan 1 Tahun 2017 (Bayaran Perumahan Khas ILJTM)</strong> , pegawai yang dilantik menyandang jawatan yang diperuntukkan Rumah Khas adalah wajib menduduki rumah tersebut sepanjang lantikan berkuatkuasa. Dalam hal ini, unit kuarters yang telah ditetapkan adalah bernombor <span style="text-decoration: underline">(no. unit kuarters).</span>.</span></p>
               <p>&nbsp;</p>
