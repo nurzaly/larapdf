@@ -68,7 +68,7 @@
                 <td width="30%" valign="top"><p>&nbsp;</p>
                   <p>Tandatangan Pegawai</p></td>
                 <td width="70%" valign="top"><p>&nbsp;</p>
-                  <p>: __________________________________________________________________</p></td>
+                  <p>: __________________________________________________________________________</p></td>
                 </tr>
               <tbody>
                 </tbody>
@@ -80,7 +80,7 @@
                 <td width="30%" valign="top"><p>&nbsp;</p>
                   <p>Nama Penuh</p></td>
                 <td width="70%" valign="top"><p>&nbsp;</p>
-                  <p>: __________________________________________________________________</p></td>
+                  <p>: __________________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -92,7 +92,7 @@
                 <td width="30%" valign="top"><p>&nbsp;</p>
                   <p>Jawatan</p></td>
                 <td width="70%" valign="top"><p>&nbsp;</p>
-                  <p>: __________________________________________________________________</p></td>
+                  <p>: __________________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -104,7 +104,7 @@
                 <td width="30%" valign="top"><p>&nbsp;</p>
                   <p>Jabatan</p></td>
                 <td width="70%" valign="top"><p>&nbsp;</p>
-                  <p>: __________________________________________________________________</p></td>
+                  <p>: __________________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -116,7 +116,7 @@
                 <td width="30%" valign="top"><p>&nbsp;</p>
                   <p>Tarikh</p></td>
                 <td width="70%" valign="top"><p>&nbsp;</p>
-                  <p>: __________________________________________________________________</p></td>
+                  <p>: __________________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -138,7 +138,7 @@
                 <td width="30%" valign="top"><p>&nbsp;</p>
                   <p>Tandatangan</p></td>
                 <td width="70%" valign="top"><p>&nbsp;</p>
-                  <p>: __________________________________________________________________</p></td>
+                  <p>: __________________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -150,7 +150,7 @@
                 <td width="30%" valign="top"><p>&nbsp;</p>
                   <p>Nama Penuh</p></td>
                 <td width="70%" valign="top"><p>&nbsp;</p>
-                  <p>: __________________________________________________________________</p></td>
+                  <p>: __________________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -162,7 +162,7 @@
                 <td width="30%" valign="top"><p>&nbsp;</p>
                   <p>Jawatan</p></td>
                 <td width="70%" valign="top"><p>&nbsp;</p>
-                  <p>: __________________________________________________________________</p></td>
+                  <p>: __________________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -174,7 +174,7 @@
                 <td width="30%" valign="top"><p>&nbsp;</p>
                   <p>Tarikh</p></td>
                 <td width="70%" valign="top"><p>&nbsp;</p>
-                  <p>: __________________________________________________________________</p></td>
+                  <p>: __________________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -203,57 +203,89 @@
                         </tr>
                       <tr>
                         <td>&nbsp;</td>
-                        </tr>
+                      </tr>
                       <tr>
-                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <td><table width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
                           <tbody>
                             <tr>
-                              <td width="4%">&nbsp;</td>
-                              <td width="93%">Saya turut mengesahkan bahawa saya akan mula menduduki kuarters pada;</td>
                               <td width="3%">&nbsp;</td>
-                              </tr>
-                            </tbody>
-                          </table></td>
-                        </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                        </tr>
-                      <tr>
-                        <td><table width="92%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody>
-                            <tr>
-                              <td width="38%" height="51" style="text-align: center"><strong>&nbsp;&nbsp;&nbsp;Tarikh Masuk Kuarters :</strong></td>
-                              <td width="62%"><table width="100%" class="tdborder">
+                              <td width="10%"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="checkbox">
                                 <tbody>
                                   <tr>
                                     <td>&nbsp;</td>
                                     </tr>
                                   </tbody>
                                 </table></td>
+                              <td width="45%"><p>Permohonan Baharu/Rayuan</p></td>
+                              <td width="43%">&nbsp;</td>
+                              </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td> <p>&nbsp;</p>
+                                <p>- No. Rujukan Permohonan</p></td>
+                              <td>: ____________________________________</td>
+                              </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td><p>&nbsp;</p>
+                                <p>- No. Rujukan Suat Kelulusan</p></td>
+                              <td>: ____________________________________</td>
+                              </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td><p>&nbsp;</p>
+                                <p>- Tarikh Masuk Kuarters (Borang Maklumbalas)</p></td>
+                              <td>: ____________________________________</td>
                               </tr>
                             </tbody>
                           </table></td>
-                        </tr>
+                      </tr>
                       <tr>
-                        <td height="25" style="text-align: center">** Tarikh Masuk Kuarters hendaklah tidak melebihi 30 hari dari tarikh borang ini</td>
-                        </tr>
+                        <td height="37">&nbsp;</td>
+                      </tr>
                       <tr>
-                        <td align="justify"><table width="100%" height="172" border="0" cellpadding="0" cellspacing="0">
+                        <td><table width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
                           <tbody>
                             <tr>
-                              <td width="28%">aaa</td>
-                              <td width="30%"><p><br>
-                                  - No. Rujukan Permohonan</p>
-                                <p>&nbsp;</p></td>
-                              <td width="42%"><p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                                <p>: __________________________________________________________________</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p></td>
+                              <td width="3%">&nbsp;</td>
+                              <td width="10%"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="checkbox">
+                                <tbody>
+                                  <tr>
+                                    <td>&nbsp;</td>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                              <td width="45%"><p>Permohonan Baharu/Rayuan</p></td>
+                              <td width="43%">&nbsp;</td>
+                              </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td><p>&nbsp;</p>
+                                <p>- No. Rujukan Permohonan</p></td>
+                              <td>: ____________________________________</td>
+                              </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td><p>&nbsp;</p>
+                                <p>- No. Rujukan Suat Kelulusan</p></td>
+                              <td>: ____________________________________</td>
+                              </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td><p>&nbsp;</p>
+                                <p>- Tarikh Masuk Kuarters (Borang Maklumbalas)</p></td>
+                              <td>: ____________________________________</td>
                               </tr>
                             </tbody>
-                          </table></td>
-                        </tr>
+                          </table>
+                          <p>&nbsp;</p></td>
+                      </tr>
                       </tbody>
                     </table></td>
                   </tr>
