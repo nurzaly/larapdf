@@ -26,6 +26,20 @@ Route::get('/print/{any}', function () {
 
 });
 
+Route::get('/print/{any}/L', function () {
+
+    $segment = Request::segment(2);
+
+    //return view($segment);
+
+    $pdf = PDF::loadView($segment, [],[], [
+        'format' => 'A4-L'
+      ]);
+
+	return $pdf->stream($segment . '.pdf');
+
+});
+
 Route::get('/print2/{any}', function () {
 
     $segment = Request::segment(2);
