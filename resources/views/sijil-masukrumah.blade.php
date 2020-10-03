@@ -13,101 +13,110 @@
       <td><table width="100%" border="0" align="center"  cellpadding="0" cellspacing="0">
         <tbody>
           <tr>
-            <td style="text-align: right">BRG/KRTRS - MAKLUMBALAS PEMOHON BERJAYA</td>
+            <td style="text-align: right">BRG/KRTRS - SIJIL AKUAN MASUK RUMAH</td>
           </tr>
           <tr>
-            <td style="text-align: center"><table width="100%" border="0" cellspacing="0" cellpadding="5">
-              <tbody>
-                <tr>
-                  <td align="center" class="bg border" style="border: 1px solid black">BORANG MAKLUMBALAS PEMOHON BERJAYA</td>
-                </tr>
-              </tbody>
-            </table></td>
+            <td style="text-align: center"><p>&nbsp;</p>
+              <p><strong>SIJIL AKUAN MASUK RUMAH</strong></p></td>
           </tr>
           <tr>
-            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: center"><p>&nbsp;</p>
+              <p><strong>(P.A. ’E’ 29)</strong></p>
+              <p>&nbsp;</p></td>
           </tr>
           <tr>
             <td style="text-align: left;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody>
                 <tr>
-                  <td width="24%">Nama Pemohon :</td>
-                  <td width="76%"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
-                    <tbody>
-                      <tr style="text-align: left">
-                        <td width="100%" height="30" class="checkbox" table>&nbsp;</td>
-                      </tr>
-                    </tbody>
-                  </table></td>
-                </tr>
-              </tbody>
-            </table></td>
+                  <td valign="top"><strong>Tarikh Masuk Rumah</strong></td>
+                  <td valign="top"><p><strong>Nombor Rumah :</strong> _____________________________</p>
+                    <p>&nbsp;</p></td>
+                  </tr>
+                <tr>
+                  <td width="50%">______________________________</td>
+                  <td width="50%"><strong>Tempat  :</strong> ______________________________________</td>
+                  </tr>
+                </tbody>
+              </table></td>
           </tr>
           <tr>
-            <td style="text-align: right">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <td style="text-align: right"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody>
                 <tr>
-                  <td width="36%">No. Rujukan Surat Keputusan :</td>
-                  <td width="64%"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
-                    <tbody>
-                      <tr style="text-align: left">
-                        <td width="110%" height="30" class="checkbox" table>&nbsp;</td>
-                      </tr>
-                    </tbody>
-                  </table></td>
+                  <td style="text-align: justify"><p>&nbsp;</p>
+                    <p>Dengan ini diakui bahawa saya telah menduduki rumah tersebut di atas mulai tarikh seperti yang ditulis. Semua alat, perabot, seperti dalam Buku Daftar Barang-Barang, dan kawasan rumah ini didapati dalam keadaan yang baik, kecuali yang tersebut di bawah. Dengan ini saya juga membenarkan sewa rumah dan perabot dipotong daripada gaji saya.</p>
+                    <p>&nbsp;</p></td>
                 </tr>
               </tbody>
             </table></td>
           </tr>
           <tr>
-            <td style="text-align: right">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <td style="text-align: left"><table width="77%" border="0" cellspacing="0" cellpadding="0">
               <tbody>
                 <tr>
-                  <td width="33%">No. Rujukan Permohonan :</td>
-                  <td width="67%"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
-                    <tbody>
-                      <tr style="text-align: left">
-                        <td width="110%" height="30" class="checkbox" table>&nbsp;</td>
-                      </tr>
-                    </tbody>
-                  </table></td>
-                </tr>
-              </tbody>
-            </table></td>
+                  <td width="75%" valign="top"><p>&nbsp;</p>
+                    <p><strong>Catatan pegawai masuk tentang keadaan rumah/perabot :</strong></p></td>
+                  <td width="25%"><p>&nbsp;</p>
+                    <p>Rujuk lampiran <strong>Borang Keadaan Aset Semasa</strong></p></td>
+                  </tr>
+                </tbody>
+              </table></td>
           </tr>
           <tr>
-            <td style="text-align: right" >&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: right" >&nbsp;</td>
-          </tr>
-          <tr>
-            <td text-decoration="underline">Saya dengan ini mengesahkan bahawa saya;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <td><table>
               <tr>
-                <td width="20%" valign="top"><table width="41%" border="0" align="center" cellpadding="0" cellspacing="0">
-                  <tbody>
-                    <tr>
-                      <td height="30" class="checkbox">&nbsp;</td>
-                    </tr>
-                  </tbody>
-                </table></td>
-                <td width="80%" valign="top"><p><strong>BERSETUJU</strong> <span>dan terima tawaran untuk menduduki kuarters bernombor</span></p>
-                  <p style="text-decoration: underline">F2-A1</p></td>
+                <td width="30%" valign="top"><p>&nbsp;</p>
+                  <p>Tandatangan Pegawai</p></td>
+                <td width="70%" valign="top"><p>&nbsp;</p>
+                  <p>: __________________________________________________________________</p></td>
+                </tr>
+              <tbody>
+                </tbody>
+              </table></td>
+          </tr>
+          <tr>
+            <td><table>
+              <tr>
+                <td width="30%" valign="top"><p>&nbsp;</p>
+                  <p>Nama Penuh</p></td>
+                <td width="70%" valign="top"><p>&nbsp;</p>
+                  <p>: __________________________________________________________________</p></td>
+              </tr>
+              <tbody>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td><table >
+              <tr>
+                <td width="30%" valign="top"><p>&nbsp;</p>
+                  <p>Jawatan</p></td>
+                <td width="70%" valign="top"><p>&nbsp;</p>
+                  <p>: __________________________________________________________________</p></td>
+              </tr>
+              <tbody>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td><table >
+              <tr>
+                <td width="30%" valign="top"><p>&nbsp;</p>
+                  <p>Jabatan</p></td>
+                <td width="70%" valign="top"><p>&nbsp;</p>
+                  <p>: __________________________________________________________________</p></td>
+              </tr>
+              <tbody>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td><table >
+              <tr>
+                <td width="30%" valign="top"><p>&nbsp;</p>
+                  <p>Tarikh</p></td>
+                <td width="70%" valign="top"><p>&nbsp;</p>
+                  <p>: __________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -117,26 +126,62 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
+            <td><p>&nbsp;</p>
+              <p><strong>Catatan Pegawai Perumahan :</strong></p></td>
+          </tr>
+          <tr>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <td><table >
               <tr>
-                <td width="20%" valign="top"><table width="41%" border="0" align="center" cellpadding="0" cellspacing="0">
-                  <tbody>
-                    <tr>
-                      <td height="30" class="checkbox">&nbsp;</td>
-                    </tr>
-                  </tbody>
-                </table></td>
-                <td width="80%" ><p><strong>TIADA LAGI KEPERLUAN</strong> untuk menduduki kuarters pada masa ini dan</p>
-                  <p>faham bahawa saya perlu mengemukakan permohonan baharu sekiranya</p>
-                  <p>ingin memohon menduduki kuarters pada masa hadapan.</p>
-                  <p>&nbsp;</p></td>
+                <td width="30%" valign="top"><p>&nbsp;</p>
+                  <p>Tandatangan</p></td>
+                <td width="70%" valign="top"><p>&nbsp;</p>
+                  <p>: __________________________________________________________________</p></td>
               </tr>
               <tbody>
               </tbody>
             </table></td>
+          </tr>
+          <tr>
+            <td><table >
+              <tr>
+                <td width="30%" valign="top"><p>&nbsp;</p>
+                  <p>Nama Penuh</p></td>
+                <td width="70%" valign="top"><p>&nbsp;</p>
+                  <p>: __________________________________________________________________</p></td>
+              </tr>
+              <tbody>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td><table >
+              <tr>
+                <td width="30%" valign="top"><p>&nbsp;</p>
+                  <p>Jawatan</p></td>
+                <td width="70%" valign="top"><p>&nbsp;</p>
+                  <p>: __________________________________________________________________</p></td>
+              </tr>
+              <tbody>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td><table >
+              <tr>
+                <td width="30%" valign="top"><p>&nbsp;</p>
+                  <p>Tarikh</p></td>
+                <td width="70%" valign="top"><p>&nbsp;</p>
+                  <p>: __________________________________________________________________</p></td>
+              </tr>
+              <tbody>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
           </tr>
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -150,15 +195,15 @@
                             <tr>
                               <td width="3%">&nbsp;</td>
                               <td><p>&nbsp;</p>
-                                <p><em><u>Diisi sekiranya bersetuju untuk menduduki kuarters;</u></em></p></td>
+                                <p><em>** (Untuk diisi oleh Penyelia Kuarters sebelum diserahkan kepada pegawai untuk dilengkapkan)</em></p></td>
                               <td width="3%">&nbsp;</td>
                               </tr>
                             </tbody>
                           </table></td>
-                      </tr>
+                        </tr>
                       <tr>
                         <td>&nbsp;</td>
-                      </tr>
+                        </tr>
                       <tr>
                         <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                           <tbody>
@@ -169,10 +214,10 @@
                               </tr>
                             </tbody>
                           </table></td>
-                      </tr>
+                        </tr>
                       <tr>
                         <td>&nbsp;</td>
-                      </tr>
+                        </tr>
                       <tr>
                         <td><table width="92%" border="0" cellspacing="0" cellpadding="0">
                           <tbody>
@@ -182,65 +227,38 @@
                                 <tbody>
                                   <tr>
                                     <td>&nbsp;</td>
-                                  </tr>
-                                </tbody>
-                              </table></td>
-                            </tr>
-                          </tbody>
-                        </table></td>
-                      </tr>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                              </tr>
+                            </tbody>
+                          </table></td>
+                        </tr>
                       <tr>
                         <td height="25" style="text-align: center">** Tarikh Masuk Kuarters hendaklah tidak melebihi 30 hari dari tarikh borang ini</td>
-                      </tr>
+                        </tr>
                       <tr>
                         <td align="justify"><table width="100%" height="172" border="0" cellpadding="0" cellspacing="0">
                           <tbody>
                             <tr>
-                              <td width="3%">&nbsp;</td>
-                              <td width="94%"><p>&nbsp;</p>
-                                <p>Saya faham bahawa saya bertanggungjawab untuk mengemukakan Sijil Akuan Masuk Rumah dalam masa 3 hari bekerja dari Tarikh Masuk Kuarters yang dinyatakan di atas. Kegagalan saya untuk mengemukakan Sijil AkuanMasuk Rumah mengikut tempoh yang ditetapkan boleh menyebabkan kelulusan/tawaran menduduki kuarters terbatal. Saya bertanggungjawab untuk memastikan bayaran sewa kuarters atau penolakan gaji bagi pembayaran menduduki kuarters bermula dari tarikh Sijil Akuan Masuk Rumah yang akan saya kemukakan.</p>
+                              <td width="28%">aaa</td>
+                              <td width="30%"><p><br>
+                                  - No. Rujukan Permohonan</p>
                                 <p>&nbsp;</p></td>
-                              <td width="3%"><p>&nbsp;</p>
+                              <td width="42%"><p>&nbsp;</p>
+                                <p>&nbsp;</p>
+                                <p>: __________________________________________________________________</p>
                                 <p>&nbsp;</p>
                                 <p>&nbsp;</p></td>
                               </tr>
-                          </tbody>
-                        </table></td>
-                      </tr>
+                            </tbody>
+                          </table></td>
+                        </tr>
                       </tbody>
-                  </table></td>
-                </tr>
-              </tbody>
-            </table></td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>Pengesahan Pemohon :</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td><table width="100%" border="0" cellspacing="0" cellpadding="4">
-              <tbody>
-                <tr>
-					<td width="40%" rowspan="4" valign="top" class="tdborder" ><em>Tandatangan</em> :</td>
-                  <td width="70%">&nbsp;</td>
-				
-                </tr>
-                <tr>
-                  <td>&nbsp;&nbsp;Nama : _______________________________________________</td>
-                </tr>
-                <tr>
-                  <td>&nbsp;</td>
-                </tr>
-                <tr>
-                  <td>&nbsp;&nbsp;Tarikh : ______________________________________________</td>
-                </tr>
-              </tbody>
-            </table></td>
+                    </table></td>
+                  </tr>
+                </tbody>
+              </table></td>
           </tr>
         </tbody>
       </table></td>
