@@ -99,7 +99,7 @@
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tr>
-                <td width="20%"><table width="41%" border="0" align="center" cellpadding="0" cellspacing="0">
+                <td width="20%" valign="top"><table width="41%" border="0" align="center" cellpadding="0" cellspacing="0">
                   <tbody>
                     <tr>
                       <td height="30" class="checkbox">&nbsp;</td>
@@ -122,16 +122,17 @@
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tr>
-                <td width="20%"><table width="41%" border="0" align="center" cellpadding="0" cellspacing="0">
+                <td width="20%" valign="top"><table width="41%" border="0" align="center" cellpadding="0" cellspacing="0">
                   <tbody>
                     <tr>
                       <td height="30" class="checkbox">&nbsp;</td>
                     </tr>
                   </tbody>
                 </table></td>
-                <td width="80%" valign="top"><p><strong>TIADA LAGI KEPERLUAN</strong> untuk menduduki kuarters pada masa ini dan</p>
+                <td width="80%" ><p><strong>TIADA LAGI KEPERLUAN</strong> untuk menduduki kuarters pada masa ini dan</p>
                   <p>faham bahawa saya perlu mengemukakan permohonan baharu sekiranya</p>
-                  <p>ingin memohon menduduki kuarters pada masa hadapan.</p></td>
+                  <p>ingin memohon menduduki kuarters pada masa hadapan.</p>
+                  <p>&nbsp;</p></td>
               </tr>
               <tbody>
               </tbody>
@@ -141,22 +142,19 @@
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody>
                 <tr>
-                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="tdborder">
                     <tbody>
                       <tr>
-                        <td >&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                      </tr>
-                      <tr>
-                         <td style="font-weight: normal; text-decoration: underline; text-align: left;"><p><em>Diisi sekiranya bersetuju untuk menduduki kuarters:</em></p></td>
-                      </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td>Saya turut mengesahkan bahawa saya akan mula menduduki kuarters pada;</td>
+                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            <tr>
+                              <td width="3%">&nbsp;</td>
+                              <td><p>&nbsp;</p>
+                                <p><em><u>Diisi sekiranya bersetuju untuk menduduki kuarters;</u></em></p></td>
+                              <td width="3%">&nbsp;</td>
+                              </tr>
+                            </tbody>
+                          </table></td>
                       </tr>
                       <tr>
                         <td>&nbsp;</td>
@@ -165,26 +163,43 @@
                         <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                           <tbody>
                             <tr>
-                              <td width="33%" height="51" style="text-align: center"><strong>Tarikh Masuk Kuarters:</strong></td>
+                              <td width="4%">&nbsp;</td>
+                              <td width="93%">Saya turut mengesahkan bahawa saya akan mula menduduki kuarters pada;</td>
+                              <td width="3%">&nbsp;</td>
+                              </tr>
+                            </tbody>
+                          </table></td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td><table width="92%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            <tr>
+                              <td width="33%" height="51" style="text-align: center"><strong>&nbsp;&nbsp;&nbsp;Tarikh Masuk Kuarters:</strong></td>
                               <td width="67%" class="tdborder"></td>
                             </tr>
                           </tbody>
                         </table></td>
                       </tr>
                       <tr>
-                        <td style="text-align: center">** Tarikh Masuk Kuarters hendaklah tidak melebihi 30 hari dari tarikh borang ini</td>
+                        <td height="25" style="text-align: center">** Tarikh Masuk Kuarters hendaklah tidak melebihi 30 hari dari tarikh borang ini</td>
                       </tr>
                       <tr>
-                        <td style="text-align: center">&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td style="text-align: justify"><p>Saya faham bahawa saya bertanggungjawab untuk mengemukakan Sijil Akuan Masuk</p>
-                          <p>Rumah dalam masa 3 hari bekerja dari Tarikh Masuk Kuarters yang dinyatakan di atas.</p>
-                          <p>Kegagalan saya untuk mengemukakan Sijil Akuan Masuk Rumah mengikut tempoh yang</p>
-                          <p>ditetapkan boleh menyebabkan kelulusan/tawaran menduduki kuarters terbatal. Saya</p>
-                          <p>bertanggungjawab untuk memastikan bayaran sewa kuarters atau penolakan gaji bagi</p>
-                          <p>pembayaran menduduki kuarters bermula dari tarikh Sijil Akuan Masuk Rumah yang akan</p>
-                          <p>saya kemukakan.</p></td>
+                        <td align="justify"><table width="100%" height="172" border="0" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <td width="3%">&nbsp;</td>
+                              <td width="94%"><p>&nbsp;</p>
+                                <p>Saya faham bahawa saya bertanggungjawab untuk mengemukakan Sijil Akuan Masuk Rumah dalam masa 3 hari bekerja dari Tarikh Masuk Kuarters yang dinyatakan di atas. Kegagalan saya untuk mengemukakan Sijil AkuanMasuk Rumah mengikut tempoh yang ditetapkan boleh menyebabkan kelulusan/tawaran menduduki kuarters terbatal. Saya bertanggungjawab untuk memastikan bayaran sewa kuarters atau penolakan gaji bagi pembayaran menduduki kuarters bermula dari tarikh Sijil Akuan Masuk Rumah yang akan saya kemukakan.</p>
+                                <p>&nbsp;</p></td>
+                              <td width="3%"><p>&nbsp;</p>
+                                <p>&nbsp;</p>
+                                <p>&nbsp;</p></td>
+                              </tr>
+                          </tbody>
+                        </table></td>
                       </tr>
                       </tbody>
                   </table></td>

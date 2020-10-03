@@ -52,80 +52,30 @@
             <td style="text-align: left; font-weight: bold;text-decoration: underline"><p>KEPUTUSAN PERMOHONAN MENDUDUKI KUATERS</p></td>
           </tr>
           <tr>
+            <td height="12" style="text-align: justify"><p>&nbsp;</p>
+              <p><span style="text-align: left">Dengan hormatnya saya diarah merujuk kepada perkara di atas. </span></p>
+              <p>&nbsp;</p>
+              <p>2.&nbsp;&nbsp;&nbsp;&nbsp;Adalah dimaklumkan, permohonan menduduki kuarters yang telah dikemukakan  oleh tuan melalui borang dengan No. Rujukan: <span style="text-decoration: underline">ILPSDK/xx/yy-z/z (?)</span>&nbsp;bertarikh <span style="text-decoration: underline">1 jun 2020</span> telah <strong style="text-decoration: underline">DILULUSKAN</strong>. Unit kuarters yang  telah diluluskan untuk didukduki adalah kuarters bernombor <span style="text-decoration: underline"> F2-A1</span>.</span></p>
+              <p>&nbsp;</p>
+              <p>3.&nbsp;&nbsp;&nbsp;&nbsp;Sehubungan dengan itu, tuan adalah dikehendaki untuk mengenbalikan Borang  Maklumbalas Permohonan Berjaya yang dilampirkan dalam masa 14 hari dari tarikh  surat ini. Kegagalan untuk mengemukakakan borang yang telah lengkap diisi dalam  tempoh tersebut akan membatalkan keputusan ini dan permohonan tuan turut terabatal  secara automatik.</p>
+              <p>&nbsp;</p>
+              <p>4.&nbsp;&nbsp;&nbsp;&nbsp;Segala perhatian dan kerjasama tuan dalam perkara ini amatlah dihargai.</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>Sekian, terima kasih.</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p><span style="text-align: justify ;font-weight: bold">&quot;BERKHIDMAT UNTUK NEGARA&quot;</span></p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>___________________________________________________</p>
+              <p><span style="text-align: justify ;font-weight: bold">(NAMA PEGAWAI PERUMAHAN / WAKILNYA)</span></p>
+              <p>&nbsp;</p></td>
           </tr>
-          <tr>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Dengan hormatnya saya diarah merujuk kepada perkara di atas. </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: left"><p></p></td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">2.&nbsp;&nbsp;&nbsp;&nbsp;Adalah dimaklumkan, permohonan menduduki kuarters yang telah dikemukakan</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">oleh tuan melalui borang dengan No. Rujukan: <span style="text-decoration: underline;">ILPSDK/xx/yy-z/z (?)</span></td>
-          </tr>
-          <tr>
-            <td style="text-align: justify;">bertarikh  <span style="text-decoration: underline;">1 jun 2020 </span>telah <strong>DILULUSKAN</strong>. Unit kuarters yang</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">telah diluluskan untuk didukduki adalah kuarters bernombor <span><strong>F2-A1</strong></span></td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">3. Sehubungan dengan itu, tuan adalah dikehendaki untuk mengenbalikan <strong>Borang</strong></td>
-          </tr>
-          <tr>
-            <td style="text-align: justify"><strong>Maklumbalas Permohonan Berjaya</strong> yang dilampirkan dalam masa <strong>14 hari</strong> dari tarikh</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">surat ini. Kegagalan untuk mengemukakakan borang yang telah lengkap diisi dalam</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">tempoh tersebut akan membatalkan keputusan ini dan permohonan tuan turut terabatal </td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">secara automatik.</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">4. Segala perhatian dan kerjasama tuan dalam perkara ini amatlah dihargai.</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">Sekian, terima kasih.</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify ;font-weight: bold">&quot;BERKHIDMAT UNTUK NEGARA&quot;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">_____________________________________________</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify ;font-weight: bold">(NAMA PEGAWAI PERUMAHAN / WAKILNYA)</td>
-          </tr>
-        </tbody>
+          </tbody>
       </table></td>
     </tr>
   </tbody>

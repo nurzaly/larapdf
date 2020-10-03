@@ -52,60 +52,27 @@
             <td style="text-align: left; font-weight: bold;text-decoration: underline"><p>KEPUTUSAN PERMOHONAN MENDUDUKI KUATERS</p></td>
           </tr>
           <tr>
-          </tr>
-          <tr>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Dengan hormatnya saya diarah merujuk kepada perkara di atas. </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: left"><p></p></td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">2.&nbsp;&nbsp;&nbsp;&nbsp;Adalah dimaklumkan, permohonan menduduki kuarters yang telah dikemukakan</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">oleh tuan melalui borang dengan No. Rujukan: <span style="text-decoration: underline;">ILPSDK/xx/yy-z/z (?)</span></td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">bertarikh  <span style="text-decoration: underline;">1 jun 2020 </span> adalah <span><strong>TIDAK DILULUSKAN</strong>.</span></td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">3. Permohonan tuan tidak dapat diluluskan disebabkan ketiadaan kekosongan<strong></strong></td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">kuarters di institut. Tuan boleh mengemukakan semula permohonan menduduki</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">kuarters melalui borang yang telah ditetapkan sekiranya terdapat kekosongan kuarters</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">kelak.</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">4. Segala perhatian dan kerjasama tuan dalam perkara ini amatlah dihargai.</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">Sekian, terima kasih.</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: justify ;font-weight: bold">&quot;BERKHIDMAT UNTUK NEGARA&quot;</td>
+            <td style="text-align: justify"><p>&nbsp;</p>
+              <p><span style="text-align: left">Dengan hormatnya saya diarah merujuk kepada perkara di atas. </span></p>
+              <p>&nbsp;</p>
+              <p>2.&nbsp;&nbsp;&nbsp;&nbsp;Adalah dimaklumkan, permohonan menduduki kuarters yang telah dikemukakanoleh tuan melalui borang dengan No. Rujukan: <span style="text-decoration: underline;">ILPSDK/xx/yy-z/z (?)</span>&nbsp;bertarikh <span style="text-decoration: underline;">&nbsp;1 jun 2020 </span> adalah <span style="text-decoration: underline"><strong>TIDAK DILULUSKAN</strong>.</span></p>
+              <p>&nbsp;</p>
+              <p>3.&nbsp;&nbsp;&nbsp;&nbsp;Permohonan tuan tidak dapat diluluskan disebabkan ketiadaan kekosongan<strong></strong>kuarters di institut. Tuan boleh mengemukakan semula permohonan mendudukikuarters melalui borang yang telah ditetapkan sekiranya terdapat kekosongan kuarterskelak.</p>
+              <p>&nbsp;</p>
+              <p>4.&nbsp;&nbsp;&nbsp;&nbsp;Segala perhatian dan kerjasama tuan dalam perkara ini amatlah dihargai.</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>Sekian, terima kasih.</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p><span style="text-align: justify ;font-weight: bold">&quot;BERKHIDMAT UNTUK NEGARA&quot;</span></p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>_____________________________________________</p>
+              <p><span style="text-align: justify ;font-weight: bold">(NAMA PEGAWAI PERUMAHAN / WAKILNYA)</span></p></td>
           </tr>
           <tr>
             <td style="text-align: justify">&nbsp;</td>
@@ -114,10 +81,22 @@
             <td style="text-align: justify">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align: justify">_____________________________________________</td>
+            <td style="text-align: justify">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align: justify ;font-weight: bold">(NAMA PEGAWAI PERUMAHAN / WAKILNYA)</td>
+            <td style="text-align: justify ;font-weight: bold">&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: justify">&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: justify">&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: justify">&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: justify ;font-weight: bold">&nbsp;</td>
           </tr>
         </tbody>
       </table></td>
