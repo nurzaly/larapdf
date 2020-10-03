@@ -81,8 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel TEST2
-                </div>
+                    Laravel TEST 4</div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
