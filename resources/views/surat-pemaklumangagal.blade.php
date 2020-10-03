@@ -61,11 +61,7 @@
               <p>&nbsp;</p>
               <p>4.&nbsp;&nbsp;&nbsp;&nbsp;Segala perhatian dan kerjasama tuan dalam perkara ini amatlah dihargai.</p>
               <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
               <p>Sekian, terima kasih.</p>
-              <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p><span style="text-align: justify ;font-weight: bold">&quot;BERKHIDMAT UNTUK NEGARA&quot;</span></p>
               <p>&nbsp;</p>

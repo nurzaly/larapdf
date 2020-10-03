@@ -34,10 +34,10 @@
             <td style="text-align: right">&nbsp;</td>
           </tr>
           <tr>
-            <td style="font-weight: bold">NAMA PEMOHON</td>
+            <td style="font-weight: bold">NAMA PEGAWAI</td>
           </tr>
           <tr>
-            <td style="font-weight: bold">(NO. RUJUKAN PERMOHONAN:________________________________)</td>
+            <td style="font-weight: bold">(NAMA JAWATAN YANG DILANTIK)</td>
           </tr>
           <tr>
             <td style="font-weight: bold">&nbsp;</td>
@@ -49,15 +49,15 @@
             <td style="text-align: left">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align: left; font-weight: bold;text-decoration: underline"><p>KEPUTUSAN PERMOHONAN MENDUDUKI KUATERS</p></td>
+            <td style="text-align: left; font-weight: bold;text-decoration: underline"><p>ARAHAN PENDUDUKAN RUMAH KHAS</p></td>
           </tr>
           <tr>
             <td height="12" style="text-align: justify"><p>&nbsp;</p>
-              <p><span style="text-align: left">Dengan hormatnya saya diarah merujuk kepada perkara di atas. </span></p>
+              <p><span style="text-align: left">Dengan hormatnya saya diarah merujuk kepada perkara di atas dan surat lantikan sebagai <span style="text-decoration: underline">(nama jawatan yang dilantik)</span> dengan no. rujukan <span style="text-decoration: underline">(no rujukan surat lantikan)</span> bertarikh <span style="text-decoration: underline">(tarikh surat lantikan)</span> adalah berkaitan.</span></p>
               <p>&nbsp;</p>
-              <p>2.&nbsp;&nbsp;&nbsp;&nbsp;Adalah dimaklumkan, permohonan menduduki kuarters yang telah dikemukakan  oleh tuan melalui borang dengan No. Rujukan: <span style="text-decoration: underline">ILPSDK/xx/yy-z/z (?)</span>&nbsp;bertarikh <span style="text-decoration: underline">1 jun 2020</span> telah <strong style="text-decoration: underline">DILULUSKAN</strong>. Unit kuarters yang  telah diluluskan untuk didukduki adalah kuarters bernombor <span style="text-decoration: underline"> F2-A1</span>.</span></p>
+              <p>2.&nbsp;&nbsp;&nbsp;&nbsp;Adalah dimaklumkan, jawatan <span style="text-decoration: underline">(nama jawatan yang dilantik)</span> yang dilantik adalah jawatan yang diperuntukkan Rumah Khas. Merujuk kepada <strong>Arahan Pentadbiran JTM Bilangan 1 Tahun 2017 (Bayaran Perumahan Khas ILJTM)</strong> , pegawai yang dilantik menyandang jawatan yang diperuntukkan Rumah Khas adalah wajib menduduki rumah tersebut sepanjang lantikan berkuatkuasa. Dalam hal ini, unit kuarters yang telah ditetapkan adalah bernombor <span style="text-decoration: underline">(no. unit kuarters).</span>.</span></p>
               <p>&nbsp;</p>
-              <p>3.&nbsp;&nbsp;&nbsp;&nbsp;Sehubungan dengan itu, tuan adalah dikehendaki untuk mengenbalikan Borang  Maklumbalas Permohonan Berjaya yang dilampirkan dalam masa 14 hari dari tarikh  surat ini. Kegagalan untuk mengemukakakan borang yang telah lengkap diisi dalam  tempoh tersebut akan membatalkan keputusan ini dan permohonan tuan turut terabatal  secara automatik.</p>
+              <p>3.&nbsp;&nbsp;&nbsp;&nbsp;Sehubungan dengan itu, tuan adalah dikehendaki untuk mula mendiami unit kuarters yang ditetapkan bermula pada tarikh jawatan berkuatkuasa. Sijil Akuan Masuk Rumah hendaklah dikemukakan dalam masa 3 hari bekerja dari tarikh tersebut. Bayaran pendudukan kuarters atau penolakan gaji berkaitan pendudukan kuarters akan mula dikira dari tarikh jawatan berkuatkuasa.</p>
               <p>&nbsp;</p>
               <p>4.&nbsp;&nbsp;&nbsp;&nbsp;Segala perhatian dan kerjasama tuan dalam perkara ini amatlah dihargai.</p>
               <p>&nbsp;</p>
