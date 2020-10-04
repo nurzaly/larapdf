@@ -161,16 +161,14 @@
                               </tr>
                               </tbody>
                             </table></td>
-                          <td width="26%" rowspan="5" valign="top"><table width="60%" height="136" border="0" cellpadding="10" cellspacing="0" align="center">
+                          <td width="26%" rowspan="5" valign="top"><table width="60%" height="136" border="0" cellpadding="7" cellspacing="0" align="center">
                             <tbody>
                                 <tr>
                                   <td height="65" valign="bottom" style="text-align: center; line-height: 17px" > <p>Jumlah Hari</p>
                                     <p style="text-align: center; line-height: 17px" >yang Dimohon</p></td>
                                 </tr>
                                 <tr>
-                                  <td height="37" class="tdborder" ><p>&nbsp;</p>
-									  #verticle-line
-                                    <p>&nbsp;</p></td>
+                                  <td height="37" class="tdborder" ><p>&nbsp;</p>       <p>&nbsp;</p></td>
                                   </tr>
                                 </tbody>
                       </table></td>
