@@ -108,90 +108,102 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td><table width="100%">
+            <td><table width="100%" >
               <tbody>
                 <tr>
-                  <td width="35%" height="30">&nbsp;</td>
-                  <td width="5%">(b)</td>
-                  <td width="20%" >Tugas yang dilantik :</td>
-                  <td width="40%" class="tdborder"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <td width="33%">&nbsp;</td>
+                  <td width="5%" height="30">(a)<br></td>
+                  <td width="22%">Tugas yang dilantik:</td>
+                  <td width="37%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                     <tbody>
                       <tr>
-                        <td>&nbsp;</td>
+                        <td class="tdborder"><p>&nbsp;</p>
+                          <p>&nbsp;</p></td>
                       </tr>
                     </tbody>
                   </table></td>
+                  <td width="3%"></td>
                 </tr>
-              </tbody>
-            </table></td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td><table width="100%">
-              <tbody>
                 <tr>
-                  <td width="35%" height="30">&nbsp;</td>
-                  <td width="5%" >(b)</td>
-                  <td width="20%">Tarikh Akhir lantikan  : </td>
-                  <td width="40%" class="tdborder"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <td>&nbsp;</td>
+                  <td height="30">(b)<br></td>
+                  <td>Tarikh mula lantikan:</td>
+                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                     <tbody>
                       <tr>
-                        <td>&nbsp;</td>
+                        <td class="tdborder"><p>&nbsp;</p>
+                          <p>&nbsp;</p></td>
                       </tr>
                     </tbody>
                   </table></td>
+                  <td></td>
                 </tr>
-              </tbody>
-            </table></td>
-          </tr>
-          <tr>
-            <td style="text-align: left" >&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: left" ><table width="93%" border="0" cellspacing="0" cellpadding="0">
-              <tbody>
-                  <tr>
-                    <td width="35%" height="30">&nbsp;</td>
-                    <td width="5%" align="center" >(a)</td>
-                    <td width="20%" align="left">Tarikh Akhir lantikan :</td>
-                    <td width="40%" class="tdborder">&nbsp;</td>
-                  </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td height="30">(c)<br></td>
+                  <td>Tarikh akhir lantikan:</td>
+                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody>
+                      <tr>
+                        <td class="tdborder"><p>&nbsp;</p>
+                          <p>&nbsp;</p></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td height="30">(d)</td>
+                  <td>No. rujukan lantikan:</td>
+                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody>
+                      <tr>
+                        <td class="tdborder"><p>&nbsp;</p>
+                          <p>&nbsp;</p></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td height="30">(e)</td>
+                  <td colspan="2">Berpindah ke unit kuarters yang lain?</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td height="30">&nbsp;</td>
+                  <td colspan="2"><table width="96%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody>
+                      <tr>
+                        <td width="10%" class="tdborder"><p>&nbsp;</p>
+                          <p>&nbsp;</p></td>
+                        <td width="6%">&nbsp;</td>
+                        <td width="53%">&nbsp;Ya, di unit kuarters bernombor :</td>
+                        <td width="5%">&nbsp;</td>
+                        <td width="10%" class="tdborder">&nbsp;</td>
+                        <td width="26%">&nbsp;&nbsp;Tidak</td>
+                        </tr>
+                      <tr>
+                        <td >&nbsp;</td>
+                        <td >&nbsp;</td>
+                        <td class="tdborder">&nbsp;</td>
+                        <td><p>&nbsp;</p>
+                          <p>&nbsp;</p></td>
+                        <td >&nbsp;</td>
+                        <td >&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  <td></td>
+                </tr>
                 </tbody>
             </table></td>
           </tr>
           <tr>
-            <td text-decoration="underline">&nbsp;</td>
-          </tr>
-          <tr>
-            <td text-decoration="underline"><table width="93%" border="0" cellspacing="0" cellpadding="0">
-              <tbody>
-                <tr>
-                  <td width="35%" height="30">&nbsp;</td>
-                  <td width="5%" align="center" >(a)</td>
-                  <td width="20%" align="left">No. Rujukan lantikan :</td>
-                  <td width="40%" class="tdborder">&nbsp;</td>
-                </tr>
-              </tbody>
-            </table></td>
-          </tr>
-          <tr>
-            <td text-decoration="underline">&nbsp;</td>
-          </tr>
-          <tr>
-            <td text-decoration="underline"><table width="93%" border="0" cellspacing="0" cellpadding="0">
-              <tbody>
-                <tr>
-                  <td width="35%" height="30">&nbsp;</td>
-                  <td width="5%" align="center" >(a)</td>
-                  <td align="left">Berpindah ke unit kuarters yang lain?</td>
-                  </tr>
-              </tbody>
-            </table></td>
-          </tr>
-          <tr>
-            <td text-decoration="underline">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr>
             <td text-decoration="underline">Saya dengan ini mengesahkan bahawa saya akan keluar kuarters pada;</td>
@@ -290,13 +302,13 @@
                   <td width="70%">&nbsp;</td>
                 </tr>
                 <tr>
-                  <td>&nbsp;&nbsp;Nama : _______________________________________________</td>
+                  <td>&nbsp;&nbsp;Nama : _________________________________________________________</td>
                 </tr>
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
                 <tr>
-                  <td>&nbsp;&nbsp;Tarikh : ______________________________________________</td>
+                  <td>&nbsp;&nbsp;Tarikh : _________________________________________________________</td>
                 </tr>
               </tbody>
             </table></td>
