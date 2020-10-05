@@ -34,12 +34,12 @@
             <td style="text-align: right"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
               <tbody>
                 <tr>
-                  <td width="18%" height="30" align="left">Nama Penghuni</td>
+                  <td width="18%" height="35" align="left">Nama Penghuni</td>
                   <td align="left" width="3%">:</td>
                   <td><table width="100%" border="0" cellspacing="0" cellpadding="0" align="left" class="tdborder">
                     <tbody>
                       <tr>
-                        <td height="25" >&nbsp;</td>
+                        <td height="30" >&nbsp;</td>
                       </tr>
                     </tbody>
                   </table></td>
@@ -54,12 +54,12 @@
             <td style="text-align: right"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
               <tbody>
                 <tr>
-                  <td width="18%" height="30" align="left">No. Unit Kuarters </td>
+                  <td width="18%" height="35" align="left">No. Unit Kuarters </td>
                   <td align="left" width="3%">:</td>
                   <td><table width="100%" border="0" cellspacing="0" cellpadding="0" align="left" class="tdborder">
                     <tbody>
                       <tr>
-                        <td height="25" >&nbsp;</td>
+                        <td height="30" >&nbsp;</td>
                         </tr>
                       </tbody>
                     </table></td>
@@ -71,8 +71,8 @@
             <td style="text-align: right"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody>
                 <tr>
-                  <td width="58%" height="40">&nbsp;</td>
-                  <td width="42%" align="left">Jenis Kuarters :</td>
+                  <td width="66%" height="40">&nbsp;</td>
+                  <td width="34%" align="left">Jenis Kuarters :</td>
                   </tr>
                 </tbody>
               </table></td>
@@ -178,13 +178,13 @@
                   <td colspan="2"><table width="96%" border="0" cellspacing="0" cellpadding="0">
                     <tbody>
                       <tr>
-                        <td width="10%" class="tdborder"><p>&nbsp;</p>
+                        <td width="9%" class="tdborder"><p>&nbsp;</p>
                           <p>&nbsp;</p></td>
-                        <td width="6%">&nbsp;</td>
-                        <td width="53%">&nbsp;Ya, di unit kuarters bernombor :</td>
                         <td width="5%">&nbsp;</td>
-                        <td width="10%" class="tdborder">&nbsp;</td>
-                        <td width="26%">&nbsp;&nbsp;Tidak</td>
+                        <td width="50%">&nbsp;Ya, di unit kuarters bernombor :</td>
+                        <td width="5%">&nbsp;</td>
+                        <td width="9%" class="tdborder">&nbsp;</td>
+                        <td width="21%">&nbsp;&nbsp;Tidak</td>
                         </tr>
                       <tr>
                         <td >&nbsp;</td>
@@ -328,7 +328,7 @@
                   <td><table width="88%" border="0" cellspacing="0" cellpadding="0">
                     <tbody>
                       <tr>
-                        <td class="tdborder">&nbsp;</td>
+                        <td class="tdborder" height="25">&nbsp;</td>
                       </tr>
                     </tbody>
                   </table></td>
@@ -340,7 +340,7 @@
                   <td width="31%"><table width="88%" border="0" cellspacing="0" cellpadding="0">
                     <tbody>
                       <tr>
-                        <td class="tdborder">&nbsp;</td>
+                        <td class="tdborder" height="25">&nbsp;</td>
                       </tr>
                     </tbody>
                   </table></td>
@@ -353,7 +353,7 @@
                   <td><table width="88%" border="0" cellspacing="0" cellpadding="0">
                     <tbody>
                       <tr>
-                        <td class="tdborder">&nbsp;</td>
+                        <td class="tdborder" height="25">&nbsp;</td>
                       </tr>
                     </tbody>
                   </table>
