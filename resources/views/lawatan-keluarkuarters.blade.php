@@ -148,8 +148,8 @@
             <td><table width="100%" border="0" cellspacing="0" cellpadding="4">
               <tbody>
                 <tr>
-                  <td width="40%" rowspan="4" valign="top" class="tdborder" ><em>Tandatangan</em> :</td>
-                  <td width="70%">&nbsp;</td>
+                  <td width="41%" rowspan="4" valign="top" class="tdborder" ><em>Tandatangan</em> :</td>
+                  <td width="59%">&nbsp;</td>
                   </tr>
                 <tr>
                   <td>&nbsp;&nbsp;Nama : ________________________________________</td>
