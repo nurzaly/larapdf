@@ -13,7 +13,7 @@
       <td height="37" align="right">BRG/KRTRS – AKU JANJI MASUK KUARTERS</td>
     </tr>
     <tr>
-      <td height="333" class="tdborder"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <td height="333" class="tdborder" style="border: solid"><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody>
           <tr>
             <td style="text-align: center">&nbsp;</td>

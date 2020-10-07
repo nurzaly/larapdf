@@ -178,7 +178,7 @@
                           <tbody>
                             <tr>
                               <td width="38%" height="51" style="text-align: center"><strong>&nbsp;&nbsp;&nbsp;Tarikh Masuk Kuarters :</strong></td>
-                              <td width="62%"><table width="100%" class="tdborder">
+                              <td width="62%"><table width="100%" class="tdborder" style="border: solid">
                                 <tbody>
                                   <tr>
                                     <td>&nbsp;</td>

@@ -13,7 +13,7 @@
       <td><table width="100%" border="0" align="center"  cellpadding="0" cellspacing="0">
         <tbody>
           <tr>
-            <td style="text-align: right; font-size: 12px;">BRG/KRTRS - SIJIL AKUAN KELUARRUMAH</td>
+            <td style="text-align: right; font-size: 12px;">BRG/KRTRS - SIJIL AKUAN KELUAR RUMAH (SEMENTARA)</td>
           </tr>
           <tr>
             <td style="text-align: center">&nbsp;</td>
@@ -22,12 +22,12 @@
             <td style="text-align: center"><table width="100%">
               <tbody>
                 <tr>
-                  <td width="25%" ></td>
+                  <td width="26%" align="center" style="background: #858585; font-size: 24px; color: aliceblue"> <strong> SEMENTARA</strong></td>
                   <td width="54%" height="46" align="center"><strong>SIJIL AKUAN KELUAR RUMAH</strong></td>
-                  <td width="25%">&nbsp;</td>
-                </tr>
-              </tbody>
-            </table></td>
+                  <td width="26%">&nbsp;</td>
+                  </tr>
+                </tbody>
+              </table></td>
           </tr>
           <tr>
             <td style="text-align: center"><p><strong>(P.A. ’E’ 30)</strong></p></td>
@@ -196,7 +196,7 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td>&nbsp;</td>
+            <td height="46" align="center" style="background: #858585; font-size: 24px; color: aliceblue"> <strong style="font-size: 20px"> SEMENTARA SEHINGGA LAWATAN OLEH PENYELIA KUARTERS</strong></td>
           </tr>
           <tr>
             <td>&nbsp;</td>

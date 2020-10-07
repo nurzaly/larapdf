@@ -46,7 +46,7 @@
                         <td width="47%"><p><strong>NO. UNIT/RUMAH KUARTERS </strong></p>
                           <p><strong>YANG SEDANG DIDUDUKI </strong></p></td>
                         <td width="4%" class="">&nbsp;</td>
-                        <td width="49%" class="tdborder" style="background: white" bordercolor="#000000">&nbsp;</td>
+                        <td width="49%" class="tdborder" style="background: #FFFFFF ;border: solid">&nbsp;</td>
                       </tr>
                       </tbody>
                   </table></td>
