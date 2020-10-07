@@ -19,7 +19,7 @@
             <td style="text-align: center"><table width="100%" border="0" cellspacing="0" cellpadding="5">
               <tbody>
                 <tr>
-                  <td align="center" class="bg border" style="border: 1px solid black">BORANG KELUAR RUMAH (TUKAR STATUS)</td>
+                  <td align="center" class="bg border" style="border: 1px solid black"><strong>BORANG KELUAR RUMAH (TUKAR STATUS)</strong></td>
                 </tr>
               </tbody>
             </table></td>
@@ -229,13 +229,13 @@
                   <td width="70%">&nbsp;</td>
                 </tr>
                 <tr>
-                  <td>&nbsp;&nbsp;Nama : _________________________________________________________</td>
+                  <td>&nbsp;&nbsp;Nama : ________________________________________</td>
                 </tr>
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
                 <tr>
-                  <td>&nbsp;&nbsp;Tarikh : _________________________________________________________</td>
+                  <td>&nbsp;&nbsp;Tarikh : ________________________________________</td>
                 </tr>
               </tbody>
             </table></td>

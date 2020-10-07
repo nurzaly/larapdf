@@ -19,7 +19,7 @@
             <td style="text-align: center"><table width="100%" border="0" cellspacing="0" cellpadding="5">
               <tbody>
                 <tr>
-                  <td align="center" class="bg border" style="border: 1px solid black">BORANG PEMAKLUMAN KELUAR KUARTERS</td>
+                  <td align="center" class="bg border" style="border: 1px solid black"><strong>BORANG PEMAKLUMAN KELUAR KUARTERS</strong></td>
                 </tr>
               </tbody>
             </table></td>
