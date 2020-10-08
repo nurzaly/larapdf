@@ -317,16 +317,14 @@
                         <td width="57%" rowspan="4" valign="top" class="tdborder"><em style="font-size: 12px"><strong>&nbsp;&nbsp;Tandatangan &amp; Cop Penyelia Kuarters:</strong></em></td>
                         </tr>
                       <tr>
-                        <td class="tdborder"><p>&nbsp;</p>
-                          <p>&nbsp;</p></td>
+                        <td class="tdborder">&nbsp;</td>
                         </tr>
                       <tr>
                         <td style="text-align: center"><p>&nbsp;</p>
                           <p>No. Rujukan Diberikan:</p></td>
                         </tr>
                       <tr>
-                        <td class="tdborder"><p>&nbsp;</p>
-                          <p>&nbsp;</p></td>
+                        <td class="tdborder">&nbsp;</td>
                         </tr>
                       </tbody>
                     </table>

@@ -2,202 +2,222 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Borang Pemohonan</title>
-<link rel="stylesheet" href="styles.css">
+<title>Borang Rayuan</title>
+<link rel="stylesheet" href="pdf.css">
 </head>
 
 <body>
-<table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
-      <td><table width="100%" border="0" align="center"  cellpadding="0" cellspacing="0">
+      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody>
           <tr>
-            <td style="text-align: right; font-size: 12px;">BRG/KRTRS - MOHON (DALAMAN)</td>
+            <td style="text-align: right; font-size: 12px;">BRG/KRTRS - MOHON (RAYUAN)</td>
           </tr>
           <tr>
-            <td style="text-align: center"><table width="100%" border="0" cellspacing="0" cellpadding="5">
+            <td style="text-align: center">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="5">
               <tbody>
                 <tr>
-                  <td align="center" class="bg">BORANG PERMOHONAN MENDUDUKI KUARTERS</td>
-                </tr>
-              </tbody>
-            </table></td>
-          </tr>
-          <tr>
-            <td style="text-align: left;">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: left;">NAMA PREMIS : ______________________________________________________</td>
-          </tr>
-          <tr>
-            <td style="text-align: right">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: right"><table class="tbl-border" width="100%" border="0" cellspacing="0" cellpadding="5">
-              <tbody>
-                <tr>
-                  <td class="bg">(A) MAKLUMAT PEMOHON</td>
+                  <td class="bg tdborder; tdborder"><strong>(D) PERAKUAN PEMOHON</strong></td>
                 </tr>
                 <tr>
-                  <td><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody>
-                      <tr>
-                        <td colspan="3">1. Nama
-                          <div class="box"> test </div></td>
-                        </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        </tr>
-                      <tr>
-                        <td>2. No. Kad Pengenalan
-                          <div class="box"> test </div></td>
-                        <td>&nbsp;</td>
-                        <td>3. No. Telefon Bimbit
-                          <div class="box"> test </div></td>
-                        </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        </tr>
-                      <tr>
-                        <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody>
-                            <tr>
-                              <td>4. Status Perkahwinan<br>
-                                <table width="100%" border="0" cellspacing="0" cellpadding="3">
-                                  <tbody>
-                                    <tr>
-                                      <td><div class="box box2"></div></td>
-                                      <td>Bujang</td>
-                                      </tr>
-                                    <tr>
-                                      <td><div class="box box2"></div></td>
-                                      <td>Berkahwin</td>
-                                      </tr>
-                                    <tr>
-                                      <td><div class="box box2"></div></td>
-                                      <td>Duda / Janda</td>
-                                      </tr>
-                                    </tbody>
-                                  </table>
-                                
-                                </td>
-                              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                <tbody>
-                                  <tr>
-                                    <td colspan="3">5. Jawatan
-                                      <div class="box"> test </div></td>
-                                    </tr>
-                                  <tr>
-                                    <td colspan="3">&nbsp;</td>
-                                    </tr>
-                                  <tr>
-                                    <td>
-                                      6. Gred Jawatan
-                                      <br></td>
-                                    <td>7. Taraf Jawatan<br></td>
-                                    <td>&nbsp;</td>
-                                    </tr>
-                                  <tr>
-                                    <td><div class="box" style="width: 100px;"> test </div></td>
-                                    <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
-                                      <tbody>
-                                        <tr>
-                                          <td><div class="box box2"></div></td>
-                                          <td>Tetap</td>
-                                          </tr>
-                                        </tbody>
-                                      </table></td>
-                                    <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
-                                      <tbody>
-                                        <tr>
-                                          <td><div class="box box2"></div></td>
-                                          <td>Kontrak</td>
-                                          </tr>
-                                        </tbody>
-                                      </table></td>
-                                    </tr>
-                                  </tbody>
-                                </table></td>
+                  <td valign="top" class="tdborder"><p align="justify">Saya mengesahkan bahawa sekiranya saya ditawarkan menduduki kuarters, adalah menjadi tanggungjawab saya sepenuhnya untuk:</p>
+                    <p>&nbsp;</p>
+                    <table width="94%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                          <td width="5%">&nbsp;</td>
+                          <td width="95%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td width="7%" class="tdborder">&nbsp;</td>
+                                <td width="3%">&nbsp;</td>
+                                <td width="90%" valign="top"><p align="justify">Memahami dan memastikan peraturan semasa yang berkuatkuasa dipatuhi sepanjang masa di sepanjang pendudukan kuarters;<em style="font-size: 12px; line-height: 15px"></em></p></td>
+                                </tr>
+                              </tbody>
+                            </table></td>
+                          </tr>
+                        <tr>
+                          <td >&nbsp;</td>
+                          <td>&nbsp;</td>
+                          </tr>
+                        <tr>
+                          <td >&nbsp;</td>
+                          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td width="7%" class="tdborder">&nbsp;</td>
+                                <td width="3%">&nbsp;</td>
+                                <td width="90%" valign="top"><p align="justify">Memastikan segala bayaran berkaitan pendudukan kuarters dijelaskan mengikut kadar yang sepatutnya sepanjang masa; dan</td>
+                                </tr>
+                              </tbody>
+                            </table></td>
+                          </tr>
+                        <tr>
+                          <td >&nbsp;</td>
+                          <td>&nbsp;</td>
+                          </tr>
+                        <tr>
+                          <td >&nbsp;</td>
+                          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td width="7%" class="tdborder">&nbsp;</td>
+                                <td width="3%">&nbsp;</td>
+                                <td width="90%" valign="top" style="line-height: 15px"><p>Memahami bahawa Kerajaan berhak membuat potongan gaji untuk bayaran yang perlu dijelaskan di sepanjang pendudukan kuarters dan </p></td>
+                                </tr>
+                              <tr>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td valign="top">Kerajaan berhak pada bila-bila masa membuat tuntutan bayaran sekiranya bayaran yang dijelaskan melalui potongan gaji kurang dari kadar yang sepatutnya.</td>
+                                </tr>
+                              </tbody>
+                            </table></td>
+                          </tr>
+                        <tr>
+                          <td colspan="2">&nbsp;</td>
+                          </tr>
+                        <tr>
+                          <td colspan="2">Saya turut mengesahkan bahawa saya,</td>
+                          </tr>
+                        <tr>
+                          <td colspan="2">&nbsp;</td>
+                          </tr>
+                        <tr>
+                          <td>&nbsp;</td>
+                          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td width="7%" class="tdborder">&nbsp;</td>
+                                <td width="3%">&nbsp;</td>
+                                <td width="90%" valign="top" style="line-height: 15px"><p>Mempunyai rumah sendiri yang dibiayai melalui Skim Pinjaman Perumahan Kerajaan (Pinjaman  Kerajaan) di alamat seperti di bawah.</p></td>
+                              </tr>
+                              <tr>
+                                <td height="55">&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td valign="top" class="tdborder">&nbsp;</td>
                               </tr>
                             </tbody>
                           </table></td>
-                        </tr>
-                      <tr>
-                        <td colspan="3">&nbsp;</td>
-                        </tr>
-                      <tr>
-                        <td colspan="3">5. Maklumat Pekerjaan
-                          <div class="box" style="height: 40px"> test </div></td>
-                        </tr>
-                      <tr>
-                        <td colspan="3">&nbsp;</td>
-                        </tr>
-                      <tr>
-                        <td colspan="3">6. Nama Jab
-                          <div class="box"> test </div></td>
-                        </tr>
-                      </tbody>
-                    </table></td>
+                          </tr>
+                        <tr>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                          </tr>
+                        <tr>
+                          <td>&nbsp;</td>
+                          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td width="8%" class="tdborder">&nbsp;</td>
+                                <td width="3%">&nbsp;</td>
+                                <td width="88%" valign="top" style="line-height: 15px">Tidak mempunyai rumah yang dibiayai melalui Skim Pinjaman Perumahan Kerajaan.</td>
+                                </tr>
+                              </tbody>
+                            </table></td>
+                          </tr>
+                        <tr>
+                          <td colspan="2">&nbsp;</td>
+                          </tr>
+                        <tr>
+                          <td colspan="2">Saya faham bahawa saya boleh hilang kelayakan menduduki kuarters sekiranya saya:</td>
+                          </tr>
+                        <tr>
+                          <td colspan="2">&nbsp;</td>
+                          </tr>
+                        <tr>
+                          <td>&nbsp;</td>
+                          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td width="6%">a)</td>
+                                <td><span style="line-height: 15px">Bertukar atau dipinjamkan ke pejabat bertugas yang lain;<em style="font-size: 12px"></em></span></td>
+                                </tr>
+                              <tr>
+                                <td>b)</td>
+                                <td>Bersara wajib atau bersara pilihan atau diarahkan untuk bersara dari perkhidmatan;</td>
+                                </tr>
+                              <tr>
+                                <td>c)</td>
+                                <td>Tamat tempoh kontrak perkhidmatan;</td>
+                                </tr>
+                              <tr>
+                                <td>d)</td>
+                                <td>Meninggal dunia atau meletak jawatan atau berhenti atau diberhentikan dari perkhidmatan;</td>
+                                </tr>
+                              <tr>
+                                <td>e)</td>
+                                <td>Mengambil Cuti Tanpa Gaji (CTG) atau Cuti Separuh Gaji (CSG) atau Cuti Belajar Tanpa Gaji (CBTG) atau Cuti Belajar Separuh Gaji (CBSG) atau Cuti Belajar Bergaji Penuh (CBBP) di dalam negeri atau ke luar negara;</td>
+                                </tr>
+                              <tr>
+                                <td>f)</td>
+                                <td>Mempunyai rumah sendiri yang dibiayai melalui Skim Pinjaman Perumahan Kerajaan dalam kawasan jarak tegak 25 km dari pejabat bertugas;</td>
+                                </tr>
+                              <tr>
+                                <td>g)</td>
+                                <td>Dikenakan tindakan Mahkamah bagi kes jenayah dan dadah; dan</td>
+                                </tr>
+                              <tr>
+                                <td>h)</td>
+                                <td width="90%"><p style="line-height: 15px" align="justify">Diputuskan sebagai tidak layak oleh Jawatankuasa Perumahan di atas sebab tidak boleh atau tidak berupaya atau enggan mematuhi peraturan kuarters yang ditetapkan, mewujudkan suasana tidak harmoni di kalangan penduduk kuarters, melakukan perbuatan yang menjejaskan atau mengakibatkan terjejasnya penikmatan atau kepentingan bersama penghuni lain ke atas Kemudahan Bersama atau kemudahan-kemudahan awam yang lain bagi kuarters yang diduduki dan lain-lain sebab yang rasional untuk diputuskan oleh Jawatankuasa Perumahan.</p></td>
+                                </tr>
+                              </tbody>
+                            </table></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    <p>&nbsp;</p>
+                    <p align="justify">Dengan ini, saya mengesahkan bahawa semua maklumat yang diisi dalam borang ini adalah betul dan tepat. Adalah menjadi tanggungjawab saya sepenuhnya untuk memaklumkan kepada pihak institut sekiranya terdapat sebarang perubahan atau pertambahan maklumat yang ada pada borang ini di sepanjang pendudukan saya di kuarters sekiranya saya ditawarkan.</p>
+                    <p>&nbsp;</p>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="4">
+                      <tbody>
+                        <tr>
+                          <td width="40%" rowspan="3" valign="top" class="tdborder" ><em style="font-size: 12px">Tandatangan</em> :</td>
+                          <td width="70%">&nbsp;&nbsp;Nama : _______________________________________________</td>
+                          </tr>
+                        <tr>
+                          <td>&nbsp;</td>
+                          </tr>
+                        <tr>
+                          <td>&nbsp;&nbsp;Tarikh : ______________________________________________</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    <p>&nbsp;</p></td>
                 </tr>
                 <tr>
-                  <td class="bg">(B) MAKLUMAT PASANGAN</td>
+                  <td class="bg border; tdborder "><strong><em>UNTUK KEGUNAAN PEJABAT</em></strong></td>
                 </tr>
                 <tr>
-                  <td><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <td height="309" class="tdborder"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
                     <tbody>
                       <tr>
-                        <td colspan="3">1. Nama
-                          <div class="box"> test </div></td>
-                      </tr>
+                        <td width="40%" style="text-align: center"><p>&nbsp;</p>
+                          <p>Tarikh Permohonan Diterima:</p></td>
+                        <td width="3%" rowspan="4" valign="top">&nbsp;</td>
+                        
+                        <td width="57%" rowspan="4" valign="top" class="tdborder"><em style="font-size: 12px"><strong>&nbsp;&nbsp;Tandatangan &amp; Cop Penyelia Kuarters:</strong></em></td>
+                        </tr>
                       <tr>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                      </tr>
+                        <td class="tdborder">&nbsp;</td>
+                        </tr>
                       <tr>
-                        <td>2. No. Kad Pengenalan
-                          <div class="box"> test </div></td>
-                        <td>&nbsp;</td>
-                        <td>3. No. Telefon Bimbit
-                          <div class="box"> test </div></td>
-                      </tr>
+                        <td style="text-align: center"><p>&nbsp;</p>
+                          <p>No. Rujukan Diberikan:</p></td>
+                        </tr>
                       <tr>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td colspan="3">4. Status Pekerjaan<br>
-                          <br>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody>
-    <tr>
-      <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
-        <tbody>
-          <tr>
-            <td><div class="box box2"></div></td>
-            <td>Bekerja</td>
-          </tr>
-        </tbody>
-      </table></td>
-      <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
-        <tbody>
-          <tr>
-            <td><div class="box box2"></div></td>
-            <td>Bekerja  Sendiri / Perniagaan</td>
-          </tr>
-        </tbody>
-      </table></td>
-      <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
-        <tbody>
-          <tr>
-            <td><div class="box box2"></div></td>
-            <td>Suri Rumah Sepenuh Masa</td>
+                        <td class="tdborder"><p>&nbsp;</p></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p>&nbsp;</p></td>
+                  </tr>
+                </tbody>
+              </table></td>
           </tr>
         </tbody>
       </table></td>
@@ -205,96 +225,5 @@
   </tbody>
 </table>
 
-                         </td>
-                      </tr>
-                      <tr>
-                        <td colspan="3">&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td colspan="3">5. Maklumat Pekerjaan (Isi sekiranya bukan Suri Rumah Sepenuh Masa)</td>
-                      </tr>
-                      <tr>
-                        <td colspan="3">&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody>
-                            <tr>
-                              <td width="44%" align="right">Jenis Pekerjaan / Perniagaan : &nbsp;&nbsp;</td>
-                              <td width="56%"><div class="box"></div></td>
-                            </tr>
-                          </tbody>
-                        </table></td>
-                      </tr>
-                      <tr>
-                        <td colspan="3">&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody>
-                            <tr>
-                              <td width="44%" align="right" valign="top">Alamat Tempat Kerja : &nbsp;&nbsp;</td>
-                              <td width="56%"><div class="box" style="height: 30px"></div></td>
-                            </tr>
-                          </tbody>
-                        </table></td>
-                      </tr>
-                    </tbody>
-                  </table></td>
-                </tr>
-                <tr>
-                  <td class="bg">(C) MAKLUMAT KELUARGA YANG AKAN TINGGAL BERSAMA</td>
-                </tr>
-                <tr>
-                  <td><table class="tbl-border" width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody>
-                      <tr>
-                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody>
-                            <tr>
-                              <th scope="col">Bil.</th>
-                              <th scope="col">Nama</th>
-                              <th scope="col">No. Kad Pengenalan</th>
-                              <th scope="col">Hubungan Dengan Pemohon</th>
-                              </tr>
-                            <tr>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              </tr>
-                            <tr>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              </tr>
-                            <tr>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              </tr>
-                            <tr>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              </tr>
-                            </tbody>
-                          </table></td>
-                        </tr>
-                      </tbody>
-                    </table></td>
-                </tr>
-              </tbody>
-            </table></td>
-          </tr>
-        </tbody>
-      </table></td>
-    </tr>
-  </tbody>
-</table>
-	
 </body>
 </html>
