@@ -34,9 +34,9 @@
                           <td width="95%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tbody>
                               <tr>
-                                <td width="7%" class="tdborder">&nbsp;</td>
+                                <td width="7%" height="56" class="tdborder">&nbsp;</td>
                                 <td width="3%">&nbsp;</td>
-                                <td width="90%" valign="top"><p align="justify">Memahami dan memastikan peraturan semasa yang berkuatkuasa dipatuhi sepanjang masa di sepanjang pendudukan kuarters;<em style="font-size: 12px; line-height: 15px"></em></p></td>
+                                <td width="90%"><p align="justify">Memahami dan memastikan peraturan semasa yang berkuatkuasa dipatuhi sepanjang masa di sepanjang pendudukan kuarters;</td>
                                 </tr>
                               </tbody>
                             </table></td>
@@ -50,7 +50,7 @@
                           <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tbody>
                               <tr>
-                                <td width="7%" class="tdborder">&nbsp;</td>
+                                <td width="7%" height="56" class="tdborder">&nbsp;</td>
                                 <td width="3%">&nbsp;</td>
                                 <td width="90%" valign="top"><p align="justify">Memastikan segala bayaran berkaitan pendudukan kuarters dijelaskan mengikut kadar yang sepatutnya sepanjang masa; dan</td>
                                 </tr>
@@ -66,14 +66,14 @@
                           <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tbody>
                               <tr>
-                                <td width="7%" class="tdborder">&nbsp;</td>
+                                <td width="7%" height="56" class="tdborder">&nbsp;</td>
                                 <td width="3%">&nbsp;</td>
-                                <td width="90%" valign="top" style="line-height: 15px"><p>Memahami bahawa Kerajaan berhak membuat potongan gaji untuk bayaran yang perlu dijelaskan di sepanjang pendudukan kuarters dan </p></td>
+                                <td width="90%"><p>Memahami bahawa Kerajaan berhak membuat potongan gaji untuk bayaran yang perlu dijelaskan di sepanjang pendudukan kuarters dan </p></td>
                                 </tr>
                               <tr>
                                 <td>&nbsp;</td>
                                 <td>&nbsp;</td>
-                                <td valign="top">Kerajaan berhak pada bila-bila masa membuat tuntutan bayaran sekiranya bayaran yang dijelaskan melalui potongan gaji kurang dari kadar yang sepatutnya.</td>
+                                <td>Kerajaan berhak pada bila-bila masa membuat tuntutan bayaran sekiranya bayaran yang dijelaskan melalui potongan gaji kurang dari kadar yang sepatutnya.</td>
                                 </tr>
                               </tbody>
                             </table></td>
@@ -92,34 +92,41 @@
                           <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tbody>
                               <tr>
-                                <td width="7%" class="tdborder">&nbsp;</td>
+                                <td width="7%" height="56" class="tdborder">&nbsp;</td>
                                 <td width="3%">&nbsp;</td>
-                                <td width="90%" valign="top" style="line-height: 15px"><p>Mempunyai rumah sendiri yang dibiayai melalui Skim Pinjaman Perumahan Kerajaan (Pinjaman  Kerajaan) di alamat seperti di bawah.</p></td>
-                              </tr>
+                                <td width="90%">Mempunyai rumah sendiri yang dibiayai melalui Skim Pinjaman Perumahan Kerajaan (Pinjaman  Kerajaan) di alamat seperti di bawah.</td>
+                                </tr>
                               <tr>
-                                <td height="55">&nbsp;</td>
+                                <td height="66">&nbsp;</td>
                                 <td>&nbsp;</td>
-                                <td valign="top" class="tdborder">&nbsp;</td>
-                              </tr>
-                            </tbody>
-                          </table></td>
-                          </tr>
-                        <tr>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          </tr>
+                                <td class="tdborder">&nbsp;</td>
+                                </tr>
+                              <tr>
+                                <td height="37">&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td valign="top"><em style="font-size: 12px">** Sila sediakan lampiran tambahan sekiranya tidak cukup ruang atau mempunyai lebih dari satu</em></td>
+                                </tr>
+                              </tbody>
+                            </table></td>
+                        </tr>
                         <tr>
                           <td>&nbsp;</td>
                           <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tbody>
                               <tr>
-                                <td width="8%" class="tdborder">&nbsp;</td>
+                                <td width="7%" height="56" class="tdborder"><p>&nbsp;</p>
+                                  <p>&nbsp;</p>
+                                <td>&nbsp;</td>
+                                <td>Tidak mempunyai rumah yang dibiayai melalui Skim Pinjaman Perumahan Kerajaan.</td>
+                                </tr>
+                              <tr>
+                                <td width="8%">&nbsp;</td>
                                 <td width="3%">&nbsp;</td>
-                                <td width="88%" valign="top" style="line-height: 15px">Tidak mempunyai rumah yang dibiayai melalui Skim Pinjaman Perumahan Kerajaan.</td>
+                                <td width="88%"><p>&nbsp;</p></td>
                                 </tr>
                               </tbody>
                             </table></td>
-                          </tr>
+                        </tr>
                         <tr>
                           <td colspan="2">&nbsp;</td>
                           </tr>
