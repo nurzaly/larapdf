@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Borang Rayuan</title>
+<title>Borang Permohonan (2)</title>
 <link rel="stylesheet" href="pdf.css">
 </head>
 
@@ -13,7 +13,7 @@
       <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody>
           <tr>
-            <td style="text-align: right; font-size: 12px;">BRG/KRTRS - MOHON (RAYUAN)</td>
+            <td style="text-align: right; font-size: 12px;">BRG/KRTRS - MOHON (DALAMAN)</td>
           </tr>
           <tr>
             <td style="text-align: center">&nbsp;</td>
