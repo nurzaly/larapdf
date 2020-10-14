@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>DAFTAR KEROSAKAN & PENYELENGGARAAN</title>
+<title>Daftar Kerosakan & Penyelenggaraan</title>
 <link rel="stylesheet" href="pdf.css">
 </head>
 

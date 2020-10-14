@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Borang Pemohonan</title>
+<title>Sijil Akuan Keluar Rumah (Sementara)</title>
 <link rel="stylesheet" href="pdf.css">
 </head>
 

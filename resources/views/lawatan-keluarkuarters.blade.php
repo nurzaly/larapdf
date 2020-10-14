@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Borang Pemohonan</title>
+<title>Borang Lawatan Keluar Kuarters</title>
 <link rel="stylesheet" href="pdf.css">
 </head>
 
@@ -19,7 +19,7 @@
             <td style="text-align: center"><table width="100%" border="0" cellspacing="0" cellpadding="5">
               <tbody>
                 <tr>
-                  <td align="center" class="bg border" style="border: 1px solid black"><strong>LAPORAN LAWATAN KELUAR KUARTERS</strong></td>
+                  <td align="center" class="bg border" style="border: 1px solid black; line-height: normal"><strong>LAPORAN LAWATAN KELUAR KUARTERS</strong></td>
                 </tr>
               </tbody>
             </table></td>
@@ -59,7 +59,7 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td><strong><u>HASIL LAWATAN PEMERIKSAAN :</u></strong></td>
+            <td style="line-height: normal"><strong><u>HASIL LAWATAN PEMERIKSAAN :</u></strong></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -133,7 +133,7 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td align="justify"><strong><u>PENGESAHAN PENGHUNI :</u></strong></td>
+            <td align="justify" style="line-height: normal"><strong><u>PENGESAHAN PENGHUNI :</u></strong></td>
           </tr>
           <tr>
             <td style="text-align: justify">&nbsp;</td>
